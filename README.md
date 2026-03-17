@@ -13,6 +13,7 @@ Machine Learning: Regression, Classification, Model Evaluation
 Deep Learning: Neural Networks (Basics to Intermediate)
 Generative AI: Prompt Engineering, AI tools
 Tools: Jupyter Notebook, Git, GitHub, Power BI
+
 📂 What You Will Find in This Repository
 Real-world datasets with cleaning & preprocessing
 Exploratory Data Analysis (EDA) projects
@@ -22,6 +23,7 @@ Machine Learning model implementations
 Deep Learning experiments
 End-to-end project workflows
 PPT presentations for projects
+
 🎯 Purpose
 This repository is created to:
 
@@ -29,6 +31,7 @@ Showcase my practical Data Science skills
 Maintain all projects in one structured place
 Demonstrate my ability to work on complete data pipelines
 Serve as a portfolio for jobs and internships
+
 👨‍💻 Author
 Nikhil Shamrao Jadhav
 BE IT | Data Science & ML Enthusiast
